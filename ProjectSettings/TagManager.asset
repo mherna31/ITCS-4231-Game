@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - Bullet
+  - Hazard
+  - DeathDisplay
+  - SafeZone
+  - Platform
+  - Wall
+  - SPoint
+  - Trigger1
+  - Trigger2
+  - Trigger3
+  - Platform1
+  - Platform2
+  - Platform3
+  - EndDisplay
+  - Enemies1
+  - Enemies2
+  - Enemies3
+  - WaterHazard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - 
+  - 
+  - Safezone
+  - 
+  - Section1
+  - Section2
+  - Section3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
