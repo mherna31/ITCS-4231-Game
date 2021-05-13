@@ -7,12 +7,17 @@ The concept was to try and reach the end in the minimal amount of deaths. For ea
 
 -Controls-
 
-look around with mouse \n
-move with wasd
-jump with space
-dash with left shift
-pause the game with m
-pause the projectiles with p
+look around with mouse.
+
+move with wasd.
+
+jump with space.
+
+dash with left shift.
+
+pause the game with m.
+
+pause the projectiles with p.
 
 you can jump and dash, as well as wallrun.
 
