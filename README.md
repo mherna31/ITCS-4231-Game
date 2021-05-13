@@ -24,7 +24,7 @@ you can jump and dash, as well as wallrun.
 
 -Misc-
 
-Used the platforms texture and corridor prefab from MAGIxBOX https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811 
+Used the platforms texture and corridor prefab from MAGIXBOX https://assetstore.unity.com/packages/3d/environments/sci-fi/modular-sci-fi-corridor-142811 
 Used general texture from Unity Technologies https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
 
 Everything else was made by me. 
