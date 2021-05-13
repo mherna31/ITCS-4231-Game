@@ -7,7 +7,7 @@ The concept was to try and reach the end in the minimal amount of deaths. For ea
 
 -Controls-
 
-look around with mouse
+look around with mouse \n
 move with wasd
 jump with space
 dash with left shift
